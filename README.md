@@ -29,3 +29,24 @@ Ensure you have **Python 3** installed. Then install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Configuration: API Key
+
+Sign up at OpenWeatherMap and get an API key.
+
+Open weather_app.py and find the line:
+
+API_KEY = "YOUR_API_KEY"
+
+
+Replace "YOUR_API_KEY" with your actual key, or store it securely in an environment variable and modify the script accordingly.
+
+
+
+---
+
+Running the App
+python weather_app.py
+
+The GUI window will launch. Enter a city and click “Get Weather” to see live data.
