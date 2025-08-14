@@ -17,7 +17,7 @@ A sleek and intuitive desktop application built with **Python** and **Tkinter**,
 
 ## Screenshot
 
-*(Place a screenshot of the app interface here. Use `assets/` folder and markdown `![]()` syntax)*
+
 
 ---
 
